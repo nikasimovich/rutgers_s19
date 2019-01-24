@@ -8,17 +8,33 @@ date_range:       1/22 – 1/25
 
 - Introductions
 - Discussion topics: What is web design to you? What are you hoping to learn here? What is the point of this class?
-- [Go over syllabus](https://paper.dropbox.com/doc/Core-Interaction-Syllabus--AWHt0~tRm~ouZWXETNWkg_tXAQ-5mIBfrckElMygBhERAXTM)
+- [Go over syllabus](https://paper.dropbox.com/doc/Design-2B-Experimental-Computation-Syllabus--AWP25jKpJp8bdNJjVtaAPZ7bAQ-8S4EQTGuaPL0jD4CK8a2f)
 - Go over class site
 - Student presentations from [google drive folder](https://drive.google.com/open?id=1NgJ568hOPtN4e2vMSI_VXg8e1zeY2tT0)
-- Review [Project 1: Time Capsule](../projects/time-capsule)
-- Assign homework
+- [Week 1 Activities](https://paper.dropbox.com/doc/Week-1--AWOaOXujC4xsZQkjVjbC78dtAQ-7pYddSMT8avUdva59y4Nc)
+- Review [Project 1: Portfolio](projects/personal-hp)
 - Watch [Lo and Behold](https://www.netflix.com/watch/80097363?source=35)
 
 ### Homework
-- Purchase [Sketch](https://www.sketchapp.com/store/edu/)
-- Sign up for [InVision](https://www.invisionapp.com/)
-- Come to class with a PDF that includes a list of 25 ideas for the content of your Time Capsule. Include photos and/or sketches for each item. Consider how you’ll organize them. Upload your PDF to our [homework drive](https://drive.google.com/open?id=1NgJ568hOPtN4e2vMSI_VXg8e1zeY2tT0) in a folder with your name and be ready to present at the start of class.
-- Read the excerpt from [Bruno Munari - Design As Art](../assets/readings/bruno-munari.pdf) as well as [this interview with Ann Colins](https://thecreativeindependent.com/people/film-editor-ann-collins-on-finding-the-beginning-middle-and-the-end/). Write a discussion question for both [here](https://docs.google.com/document/d/1nYuBgM6dkic-UNSpSNUgG__RvlkrsVUR38dVMbl9W38/edit?usp=sharing).
+- Review HTML basics, we&rsquo;ll have a short quiz next class:
+- [Introduction](https://www.w3schools.com/html/html_intro.asp)
+- [Text editors](https://www.w3schools.com/html/html_editors.asp)
+- [Basic examples](https://www.w3schools.com/html/html_basic.asp)
+- [HTML Elements](https://www.w3schools.com/html/html_elements.asp)
+- [Attributes](https://www.w3schools.com/html/html_attributes.asp)
+- [Headings](https://www.w3schools.com/html/html_headings.asp)
+- [Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)
+- [Text formatting](https://www.w3schools.com/html/html_formatting.asp)
+- [Comments](https://www.w3schools.com/html/html_comments.asp)
+- [Links](https://www.w3schools.com/html/html_links.asp)
+- [Lists](https://www.w3schools.com/html/html_lists.asp)
+- [Blocks](https://www.w3schools.com/html/html_blocks.asp)
+- [Classes](https://www.w3schools.com/html/html_classes.asp)
+
+- Refine you in-class activities, have the Pick 10 Exercise finished
+- Start working on your Portfolio website
+- Assign a discussion leader
+- Read the following readings: [The Crystal Goblet – Beatrice Warde](http://ci.labud.nyc/assets/readings/warde-beatrice_the-crystal-goblet.pdf)
+  [Drowning the Crystal Goblet – Matthew Butterick](https://practicaltypography.com/drowning-the-crystal-goblet.html) come to class with a [discussion question](https://paper.dropbox.com/doc/Design-2B-Reading-1--AWOiECF7iNpqQL87jevKwbyIAQ-r13aXL2T521alu6RyMqGI)
 
 ---

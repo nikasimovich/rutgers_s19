@@ -45,7 +45,7 @@ $(function() {
 
   var allMessages = [
     "Experiment",
-    "Introduction to Interaction Design",
+    "Experimental Computation",
     "Have fun",
     "Google it",
     "Try again",

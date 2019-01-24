@@ -30,7 +30,6 @@ exclude:
 navigation:
   - Agenda: /agenda
   - Projects: /projects
-  - Exercises: /lectures
   - Students: /students
   - Information: /info
   - Resources: /resources
