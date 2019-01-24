@@ -10,9 +10,9 @@ date_range:       1/22 – 1/25
 - Discussion topics: What is web design to you? What are you hoping to learn here? What is the point of this class?
 - [Go over syllabus](https://paper.dropbox.com/doc/Design-2B-Experimental-Computation-Syllabus--AWP25jKpJp8bdNJjVtaAPZ7bAQ-8S4EQTGuaPL0jD4CK8a2f)
 - Go over class site
-- Student presentations from [google drive folder](https://drive.google.com/open?id=1NgJ568hOPtN4e2vMSI_VXg8e1zeY2tT0)
+- Student presentations from [google drive folder](https://drive.google.com/drive/u/2/folders/1hiHMr3fSAxOYKFnYKjF-i6NA-xCSSzPd?usp=sharing)
 - [Week 1 Activities](https://paper.dropbox.com/doc/Week-1--AWOaOXujC4xsZQkjVjbC78dtAQ-7pYddSMT8avUdva59y4Nc)
-- Review [Project 1: Portfolio](projects/personal-hp)
+- Review [Project 1: Portfolio](/projects/personal-hp)
 - Watch [Lo and Behold](https://www.netflix.com/watch/80097363?source=35)
 
 ### Homework
@@ -32,7 +32,7 @@ date_range:       1/22 – 1/25
 - [Classes](https://www.w3schools.com/html/html_classes.asp)
 
 - Refine you in-class activities, have the Pick 10 Exercise finished
-- Start working on your Portfolio website
+- Start working on your portfolio website
 - Assign a discussion leader
 - Read the following readings: [The Crystal Goblet – Beatrice Warde](http://ci.labud.nyc/assets/readings/warde-beatrice_the-crystal-goblet.pdf)
   [Drowning the Crystal Goblet – Matthew Butterick](https://practicaltypography.com/drowning-the-crystal-goblet.html) come to class with a [discussion question](https://paper.dropbox.com/doc/Design-2B-Reading-1--AWOiECF7iNpqQL87jevKwbyIAQ-r13aXL2T521alu6RyMqGI)
