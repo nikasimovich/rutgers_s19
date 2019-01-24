@@ -31,7 +31,7 @@ date_range:       1/22 – 1/25
 - [Classes](https://www.w3schools.com/html/html_classes.asp)
 
 - Finish your student survey
-- Continue working on your Pick 10 exercise. Have your "working" doc finished (what we did in class – either a google doc, dropbox paper, or just a folder that you can access) and have 1 page online
+- Continue working on your Pick 10 exercise. Pick one of the topics you chose today and source the photos/assets you need for it. Put one page of it online.
 - Upload your student survey and your pick 10 exercise
 - Post 5 images to your [inspiration diary](/projects/insta-diary). Link your instagram account to your class homepage.
 - Assign a discussion leader
