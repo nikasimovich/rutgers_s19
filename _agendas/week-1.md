@@ -13,7 +13,6 @@ date_range:       1/22 – 1/25
 - Student presentations from [google drive folder](https://drive.google.com/drive/u/2/folders/1hiHMr3fSAxOYKFnYKjF-i6NA-xCSSzPd?usp=sharing)
 - [Week 1 Activities](https://paper.dropbox.com/doc/Week-1--AWOaOXujC4xsZQkjVjbC78dtAQ-7pYddSMT8avUdva59y4Nc)
 - Review [Project 1: Portfolio](/projects/personal-hp)
-- Watch [Lo and Behold](https://www.netflix.com/watch/80097363?source=35)
 
 ### Homework
 - Review HTML basics, we&rsquo;ll have a short quiz next class:
@@ -31,8 +30,9 @@ date_range:       1/22 – 1/25
 - [Blocks](https://www.w3schools.com/html/html_blocks.asp)
 - [Classes](https://www.w3schools.com/html/html_classes.asp)
 
-- Refine you in-class activities, have the Pick 10 Exercise complete and online
-- Start working on your portfolio website
+- Finish your student survey
+- Continue working on your Pick 10 exercise. Have your "working" doc finished (what we did in class – either a google doc, dropbox paper, or just a folder that you can access) and have 1 page online
+- Upload your student survey and your pick 10 exercise
 - Post 5 images to your [inspiration diary](/projects/insta-diary). Link your instagram account to your class homepage.
 - Assign a discussion leader
 - Read the following readings: [The Crystal Goblet – Beatrice Warde](http://ci.labud.nyc/assets/readings/warde-beatrice_the-crystal-goblet.pdf)
