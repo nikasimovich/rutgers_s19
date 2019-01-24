@@ -31,8 +31,9 @@ date_range:       1/22 – 1/25
 - [Blocks](https://www.w3schools.com/html/html_blocks.asp)
 - [Classes](https://www.w3schools.com/html/html_classes.asp)
 
-- Refine you in-class activities, have the Pick 10 Exercise finished
+- Refine you in-class activities, have the Pick 10 Exercise complete and online
 - Start working on your portfolio website
+- Post 5 images to your [inspiration diary](/projects/insta-diary). Link your instagram account to your class homepage.
 - Assign a discussion leader
 - Read the following readings: [The Crystal Goblet – Beatrice Warde](http://ci.labud.nyc/assets/readings/warde-beatrice_the-crystal-goblet.pdf)
   [Drowning the Crystal Goblet – Matthew Butterick](https://practicaltypography.com/drowning-the-crystal-goblet.html) come to class with a [discussion question](https://paper.dropbox.com/doc/Design-2B-Reading-1--AWOiECF7iNpqQL87jevKwbyIAQ-r13aXL2T521alu6RyMqGI)
