@@ -45,7 +45,7 @@ $(function() {
 
   var allMessages = [
     "Experiment",
-    "Experimental Computation",
+    "Computation",
     "Have fun",
     "Google it",
     "Try again",
