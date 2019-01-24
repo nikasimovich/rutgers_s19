@@ -4,10 +4,6 @@ permalink: /resources/index.html
 title: Resources
 ---
 
-### Syllabus
-
-- [Studio](https://docs.google.com/document/d/10_OBOOdFk3AfyrnyAWjOvvR35NfrKr0Ze9-e1xDXdXo/edit?usp=sharing)
-
 ### Programming (General)
 
 - [Mozilla Developer Network Web Docs](https://developer.mozilla.org/en-US/)
