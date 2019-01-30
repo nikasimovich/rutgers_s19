@@ -1,10 +1,10 @@
 ---
 title:            Week 1
 start_date:       2019-01-23 00:00:00 -0500
-date_range:       1/22 – 1/25
+date_range:       1/24
 ---
 
-### Tuesday, Studio
+### Thursday, In Class
 
 - Introductions
 - Discussion topics: What is web design to you? What are you hoping to learn here? What is the point of this class?

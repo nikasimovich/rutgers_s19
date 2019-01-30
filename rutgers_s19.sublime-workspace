@@ -15,6 +15,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1793,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_agendas/week-1.md",
+			"settings":
+			{
+				"buffer_size": 2486,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_sass/partials/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 6904,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -27,6 +54,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"edit",
+				"Project: Edit Project"
+			],
 			[
 				"editp",
 				"Project: Edit Project"
@@ -188,10 +219,51 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/nikasimovich/projects/rutgers_s19"
+		"/Users/nikasimovich/projects/rutgers_s19",
+		"/Users/nikasimovich/projects/rutgers_s19/_agendas",
+		"/Users/nikasimovich/projects/rutgers_s19/_lectures",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass/partials",
+		"/Users/nikasimovich/projects/rutgers_s19/studio"
 	],
 	"file_history":
 	[
+		"/Users/nikasimovich/projects/rutgers_s19/_layouts/home.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/personal-hp.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/maxims.md",
+		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/rutgers-school-setup/index.html",
+		"/Users/nikasimovich/projects/rutgers_s19/students.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/jael.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/pauline.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/alexa.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/sarah.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/luiza.md",
+		"/Users/nikasimovich/projects/rutgers_s19/resources.md",
+		"/Users/nikasimovich/projects/rutgers_s19/js/main.js",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/insta-diary.md",
+		"/Users/nikasimovich/projects/rutgers_s19/info.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_agendas/week-1.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/kyle.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/jillian.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/fictional-interface.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/derek.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/sunga.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/edward.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_students/jennifer.md",
+		"/Users/nikasimovich/projects/rutgers_s19/css/main.scss",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass/partials/_layout.scss",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass/base/_base.scss",
+		"/Users/nikasimovich/projects/rutgers_s19/_sass/core/_variables.scss",
+		"/Users/nikasimovich/projects/rutgers_s19/_includes/footer.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/reading-presentations.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/live-data.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/literal-abstract.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/time-capsule.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_projects/obsessions.md",
+		"/Users/nikasimovich/projects/rutgers_s19/_layouts/default.html",
+		"/Users/nikasimovich/projects/rutgers_s19/_includes/header.html",
+		"/Users/nikasimovich/projects/rutgers_s19/README.md",
 		"/Users/nikasimovich/projects/rutgers_s19/rutgers_s19.sublime-project",
 		"/Users/nikasimovich/projects/sublime_text_projects/ci.sublime-project",
 		"/Users/nikasimovich/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
@@ -199,7 +271,6 @@
 		"/Users/nikasimovich/projects/rutgersS19/site/blueprints/default.yml",
 		"/Users/nikasimovich/projects/rutgersS19/assets/css/index.css",
 		"/Users/nikasimovich/projects/rutgersS19/site/snippets/header.php",
-		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/rutgers-school-setup/index.html",
 		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/practice/practice-comparison.js",
 		"/Users/nikasimovich/Dropbox/_Work/Teaching/2019/rutgers/practice/turn-background.js",
 		"/Users/nikasimovich/projects/rutgersS19/starterkit/content/home/home.txt",
@@ -285,51 +356,18 @@
 		"/Users/nikasimovich/projects/wedding/_site/css/main.css",
 		"/Users/nikasimovich/projects/wedding/_includes/head.html",
 		"/Users/nikasimovich/projects/wedding/dylan-nika.md",
-		"/Users/nikasimovich/projects/ci18/_agendas/week-4.md",
-		"/Users/nikasimovich/projects/ci18/_agendas/week-3.md",
-		"/Users/nikasimovich/Dropbox/_Work/Teaching/2017/2017_spring_ci/explorations/hover-demo/hover-demo/assets/css/main.css",
-		"/Users/nikasimovich/projects/ci/_agendas/week-3.md",
-		"/Users/nikasimovich/projects/ci/_agendas/week-2.md",
-		"/Users/nikasimovich/projects/ci/studio/hover-demo/assets/css/main.css",
-		"/Users/nikasimovich/Dropbox/_Work/Teaching/2017/2017_spring_ci/explorations/assets/main.css",
-		"/Users/nikasimovich/Downloads/muria590.github.io-master/index/css/main.css",
-		"/Users/nikasimovich/Dropbox/_Work/Personal/kisses/website/assets/main.css",
-		"/Users/nikasimovich/Downloads/remixes/assets/main.css",
-		"/Users/nikasimovich/projects/ci/_site/studio/hover-demo/assets/css/main.css",
-		"/Users/nikasimovich/Dropbox/_Work/Teaching/2017/2017_spring_ci/explorations/hover-demo/assets/css/main.css",
-		"/Users/nikasimovich/Dropbox/_Work/Teaching/2017/2017_spring_ci/explorations/hover-demo/index.html",
-		"/Users/nikasimovich/projects/ci18/_agendas/week-1.md",
-		"/Users/nikasimovich/projects/mobile_design_2017_fall/_config.yml",
-		"/Users/nikasimovich/projects/mobile_design_2017_fall/_layouts/project.html",
-		"/Users/nikasimovich/projects/ci/_agendas/week-15.md",
-		"/Users/nikasimovich/projects/mobile_design_2017_fall/lectures.html",
-		"/Users/nikasimovich/projects/mobile_design_2017_fall/_layouts/home.html",
-		"/Users/nikasimovich/projects/mobile_design_2017_fall/_lectures/lecture-1.md",
-		"/Users/nikasimovich/projects/mobile_design_2017_fall/_lectures/type.md",
-		"/Users/nikasimovich/projects/wedding/_sass/partials/_montauk.scss",
-		"/Users/nikasimovich/projects/wedding/Gemfile",
-		"/Users/nikasimovich/Desktop/jissaura/assets/main.css",
-		"/Users/nikasimovich/Desktop/test.svg",
-		"/Users/nikasimovich/Desktop/jissaura/index.html",
-		"/Users/nikasimovich/Dropbox/_Work/Teaching/responsive/assets/css/main.css",
-		"/Users/nikasimovich/Dropbox/_Work/Teaching/responsive/index.html",
-		"/Users/nikasimovich/projects/ci/_includes/header.html",
-		"/Users/nikasimovich/projects/ci/_agendas/week-12.md",
-		"/Users/nikasimovich/projects/ci/_readings/ceglowski_internet-with-human-face.mdown",
-		"/Users/nikasimovich/Downloads/rings.html",
-		"/Users/nikasimovich/projects/ci/_agendas/week-10.md",
-		"/Users/nikasimovich/projects/ci/_agendas/week-9.md",
-		"/Users/nikasimovich/projects/ci/_agendas/week-8.md"
+		"/Users/nikasimovich/projects/ci18/_agendas/week-4.md"
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
 		"height": 101.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -337,6 +375,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"theinhar",
+			"theinhard",
+			"body",
+			" [",
+			"console",
+			".flower {",
+			".active",
+			".active:before",
+			".nav .active:before",
+			".nav .active:before ",
+			"Parsons",
+			"Core Interaction",
+			"eye__pupil cls-2",
+			"$site-background-color",
+			".html--home",
+			"fisher",
+			"dylan"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -354,8 +409,100 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1236,
+								1236
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 73.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_agendas/week-1.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1870,
+								1870
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 558.0,
+						"translation.y": 257.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_sass/partials/_layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6613,
+								6613
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7463.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -440,6 +587,22 @@
 		"selected_items":
 		[
 			[
+				"week",
+				"_agendas/week-1.md"
+			],
+			[
+				"home",
+				"_layouts/home.html"
+			],
+			[
+				"layouscs",
+				"_sass/partials/_layout.scss"
+			],
+			[
+				"css",
+				"css/main.scss"
+			],
+			[
 				"agenphp",
 				"site/templates/agenda.php"
 			],
@@ -474,10 +637,6 @@
 			[
 				"proj",
 				"_projects/window.md"
-			],
-			[
-				"week",
-				"_agendas/week-1.md"
 			],
 			[
 				"dylan",
@@ -542,10 +701,6 @@
 			[
 				"students",
 				"students.html"
-			],
-			[
-				"css",
-				"_projects/csstypeface.md"
 			],
 			[
 				"remimd",
