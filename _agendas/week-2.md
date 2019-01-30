@@ -15,3 +15,5 @@ date_range:       1/31
 ### Homework
 - Prepare your class portfolio for our first review next week. Have your update online.
 - Review CSS and CSS positioning
+- Pick a discussion leader
+- Read [Can the Internet Be Archived](https://www.newyorker.com/magazine/2015/01/26/cobweb) and write a discussion question
