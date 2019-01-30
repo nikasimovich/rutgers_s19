@@ -15,5 +15,6 @@ date_range:       1/31
 ### Homework
 - Prepare your class portfolio for our first review next week. Have your update online. Be sure to have considered a type system, a way of organzing your projects and exercises, and a visual direction. Also consider what you might add to your portfolio.
 - Review CSS and CSS positioning
+- 5 photos to your inspiration diary (ongoing.)
 - Pick a discussion leader
 - Read [Can the Internet Be Archived](https://www.newyorker.com/magazine/2015/01/26/cobweb) and write a discussion question
