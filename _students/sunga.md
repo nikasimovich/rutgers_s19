@@ -1,5 +1,5 @@
 ---
-first_name: Sunga
+first_name: Wendy Sunga
 last_name:  Kim
 student_id: sunga.kim
 website: https://artfiles.rutgers.edu/~kimsu@art.rutgers.edu/
