@@ -138,13 +138,14 @@ ol {
   font-family: "burgess-regular", serif;
 }
 
-
 @font-face {
-  font-family: 'BigCaslon-Medium';
-  src: url('../fonts/BigCaslon-Medium.eot?#iefix') format('embedded-opentype'),  url('../fonts/BigCaslon-Medium.woff') format('woff'), url('BigCaslon-Medium.ttf')  format('truetype'), url('../fonts/BigCaslon-Medium.svg#BigCaslon-Medium') format('svg');
-  font-weight: normal;
-  font-style: normal;
+    font-family: 'BigCaslon-Medium';
+    src: url('../fonts/BigCaslon-Medium.woff2') format('woff2'),
+        url('../fonts/BigCaslon-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
 }
+
 
 .bigcaslon {
   font-family: 'BigCaslon-Medium';
@@ -184,11 +185,34 @@ ol {
     visibility: visible;
 }
 
-code {
+/*code {
   background-color: antiquewhite;
   color:black;
+}*/
+
+pre > code {
+    white-space: pre;
+    margin-top: -1.00em;
+    display: block;
+    text-align: left;
+}
+.highlight {
+  border-radius: 4px;
 }
 
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1.2rem;
+  padding: 1rem 0 0 1rem;
+  font-size: .9rem;
+  line-height: 1.2;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #EFEFEF;
+}
 /* Layouts */
 
 .row-full {
@@ -208,3 +232,5 @@ code {
 .title {
   margin: 1em 0 5em -50vw;
 }
+
+
