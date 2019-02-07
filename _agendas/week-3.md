@@ -11,7 +11,6 @@ date_range:       2/07
 - [Talk about goals of a critique. What&rsquo;s the point? Why are we doing this?](https://paper.dropbox.com/doc/Critique-Process--AXHUISsAr~sYsb1WIkZM8UO1AQ-XGLL4YQXnSlhNrb2TuG0j)
 - Week 3 activities [Layouts, Positioning, Flexbox](https://paper.dropbox.com/doc/Week-3--AXE_Wi0eEOq~PKbKSFWnwCpDAQ-TQqius5SzMOGbYYlUcsFe)
 - Review [Navigation](https://paper.dropbox.com/doc/Navigation--AXGbsk9ncVnC4oWSkTyrg72lAQ-MVUR8kO2yi86cNlyDhYOv)
-- Critique student portfolios
 - Introduce [Maxims](../projects/maxims)
 - Introduce [Are.na](https://www.are.na/)
 - If any time is left, watch Lo and Behold
