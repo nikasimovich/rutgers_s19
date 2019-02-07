@@ -13,12 +13,12 @@ date_range:       2/07
 - Week 3 activities [Layouts, Positioning, Flexbox](https://paper.dropbox.com/doc/Week-3--AXE_Wi0eEOq~PKbKSFWnwCpDAQ-TQqius5SzMOGbYYlUcsFe)
 - Review [Navigation](https://paper.dropbox.com/doc/Navigation--AXGbsk9ncVnC4oWSkTyrg72lAQ-MVUR8kO2yi86cNlyDhYOv)
 - Work on Pick 10, finish in class and critique
-- Review [type based examples](https://paper.dropbox.com/doc/Maxims-Intro--AW~BFslrzOPVY04oCWHg~kKaAQ-9cOXvdWgpIaryO6sXXUFm)
 - Introduce [Maxims](../projects/maxims)
-- Introduce Are.na
+- Introduce [Are.na](are.na)
 - If any time is left, watch Lo and Behold
 
 ### Homework
+- Finish your "Pick 10" exercise. I&rsquo;d like to begin with a critique next week.
 - Find a source of text for your Maxims activity. Create an are.na channel that houses the content. Link to your are.na on your class homepage.
 - Reading: [Fuck Content by Michael Rock](https://2x4.org/ideas/2009/fuck-content/) with discussion question
 - Pick discussion leader who will present on Michael Rock, 2x4, and the above reading.
