@@ -17,7 +17,7 @@ date_range:       2/07
 - If any time is left, watch Lo and Behold
 
 ### Homework
-- Finish your "Pick 10" exercise. I&rsquo;d like to begin with a critique next week.
+- Finish your class portfolio for the first check in. I&rsquo;d like to begin with a critique next week.
 - Find a source of text for your Maxims activity. Create an are.na channel that houses the content. Link to your are.na on your class homepage.
 - Reading: [Fuck Content by Michael Rock](https://2x4.org/ideas/2009/fuck-content/) with discussion question
 - Pick discussion leader who will present on Michael Rock, 2x4, and the above reading.
