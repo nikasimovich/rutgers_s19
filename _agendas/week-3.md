@@ -20,3 +20,4 @@ date_range:       2/07
 - Find a source of text for your Maxims activity. Create an are.na channel that houses the content. Link to your are.na on your class homepage.
 - Reading: [Fuck Content by Michael Rock](https://2x4.org/ideas/2009/fuck-content/) with discussion question
 - Pick discussion leader who will present on Michael Rock, 2x4, and the above reading.
+- Continue adding to your instagram
