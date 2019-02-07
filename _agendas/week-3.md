@@ -9,12 +9,11 @@ date_range:       2/07
 - Jael presents on Linked by Air/art.yale.edu. We [discuss](https://paper.dropbox.com/doc/Design-2B-Reading-2--AWrKYik8DCNjzKgEau6rFlHeAQ-qdBlIFQ6cHHwqAjj9hImT)
 - Read through [this](https://uxdesign.cc/dont-take-design-critique-as-an-insult-6cf187ca6308)
 - [Talk about goals of a critique. What&rsquo;s the point? Why are we doing this?](https://paper.dropbox.com/doc/Critique-Process--AXHUISsAr~sYsb1WIkZM8UO1AQ-XGLL4YQXnSlhNrb2TuG0j)
-- Critique student portfolios
 - Week 3 activities [Layouts, Positioning, Flexbox](https://paper.dropbox.com/doc/Week-3--AXE_Wi0eEOq~PKbKSFWnwCpDAQ-TQqius5SzMOGbYYlUcsFe)
 - Review [Navigation](https://paper.dropbox.com/doc/Navigation--AXGbsk9ncVnC4oWSkTyrg72lAQ-MVUR8kO2yi86cNlyDhYOv)
-- Work on Pick 10, finish in class and critique
+- Critique student portfolios
 - Introduce [Maxims](../projects/maxims)
-- Introduce [Are.na](are.na)
+- Introduce [Are.na](https://www.are.na/)
 - If any time is left, watch Lo and Behold
 
 ### Homework
