@@ -9,7 +9,7 @@ date_range:       2/07
 - Jael presents on Linked by Air/art.yale.edu. We [discuss](https://paper.dropbox.com/doc/Design-2B-Reading-2--AWrKYik8DCNjzKgEau6rFlHeAQ-qdBlIFQ6cHHwqAjj9hImT)
 - [Talk about goals of a critique. What&rsquo;s the point? Why are we doing this?](https://paper.dropbox.com/doc/Critique-Process--AWvYNcNHjg3dtOdz0_znbGYRAQ-3olfNGk6T60QAelyLZNnj)
 - Look at student portfolios
-- Week 3 activities (Layouts, Positioning, Flexbox)(https://paper.dropbox.com/doc/Week-3--AXE_Wi0eEOq~PKbKSFWnwCpDAQ-TQqius5SzMOGbYYlUcsFe)
+- Week 3 activities [Layouts, Positioning, Flexbox](https://paper.dropbox.com/doc/Week-3--AXE_Wi0eEOq~PKbKSFWnwCpDAQ-TQqius5SzMOGbYYlUcsFe)
 - Review [Navigation](https://paper.dropbox.com/doc/Navigation--AXGbsk9ncVnC4oWSkTyrg72lAQ-MVUR8kO2yi86cNlyDhYOv)
 - Work on Pick 10, finish in class and critique
 - Introduce [Maxims](../projects/maxims)
