@@ -10,7 +10,7 @@ date_range:       2/14
 - Kyle presents on Michael Rock / Fuck Content. We [discuss](https://paper.dropbox.com/doc/Design-2B-Reading-3--AXIpp_6W1CwricqMBjrep10XAQ-pESH8VhkAPKohOrWNaF49)
 - [Review goals of a critique. What&rsquo;s the point? Why are we doing this?](https://paper.dropbox.com/doc/Critique-Process--AXHUISsAr~sYsb1WIkZM8UO1AQ-XGLL4YQXnSlhNrb2TuG0j)
 - Critique Pick 10 and Student Portfolio progress
-- [Week 4 Activities: Animations, Abstracted Valentines Day Cards](https://paper.dropbox.com/doc/Week-4--AXh5PZgyO8x8VmQb53Uig6vqAQ-WFyFVC9ipcCblXaEyXqNB)
+- [Week 4 Activities: Animations, Abstracted Valentines Day Cards and Responsive Design Intro](https://paper.dropbox.com/doc/Week-4--AXh5PZgyO8x8VmQb53Uig6vqAQ-WFyFVC9ipcCblXaEyXqNB)
 - [Talk about beginning a project: Research, Wireframes, Sketches](https://paper.dropbox.com/doc/How-to-Begin-a-Project-and-How-to-Present-Your-Process--AXigMM0wxLVrZOOzHpPkneqSAQ-vML6MBKWm2TKCUBtIWl4K)
 - Watch [Lo and Behold](https://www.netflix.com/title/80097363)
 - If we have extra time: work on a revision for your portfolio page
