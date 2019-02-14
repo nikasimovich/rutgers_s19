@@ -13,6 +13,7 @@ date_range:       2/14
 - [Week 4 Activities: Animations, Abstracted Valentines Day Cards](https://paper.dropbox.com/doc/Week-4--AXh5PZgyO8x8VmQb53Uig6vqAQ-WFyFVC9ipcCblXaEyXqNB)
 - [Talk about beginning a project: Research, Wireframes, Sketches](https://paper.dropbox.com/doc/How-to-Begin-a-Project-and-How-to-Present-Your-Process--AXigMM0wxLVrZOOzHpPkneqSAQ-vML6MBKWm2TKCUBtIWl4K)
 - Watch [Lo and Behold](https://www.netflix.com/title/80097363)
+- If we have extra time: work on a revision for your portfolio page
 
 ### Homework
 - Create 3 different concepts for your Maxims project. Create 3 are.na channels – one for each concept and link them under the parent directory that you already started. Each direction should include a title, visual references, experimentation in how the maxims will be depicted, and a basic wireframe showing how a user will navigate through the page. Have as much variety between the three directions as possible.
