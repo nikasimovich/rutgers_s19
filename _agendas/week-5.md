@@ -14,6 +14,6 @@ date_range:       2/21
 
 
 ### Homework
-- Come up with three directions for your Maxims project and begin an are.na channel for your favorite one. The are.na channel should be titled by the concept name, have a brief description of the direction and how it relates to the project, a few visual references that bring the idea to life, and a couple examples of how you&rsquo;ll depict your Maxims online. Begin programming your website. We will work on this in class next week and it will be due on 03/07.
+- Come up with three directions for your Maxims project and begin an are.na channel for each one. The are.na channel should be titled by the concept name, have a brief description of the direction and how it relates to the project, a few visual references that bring the idea to life, and a couple examples of how you&rsquo;ll depict your Maxims online. Begin programming your website. We will work on this in class next week and it will be due on 03/07.
 - Review our class notes on javascript and go through [this activity](https://jgthms.com/javascript-in-14-minutes/)
 - Reading [The Diminishing Marginal Value of Aesthetics by Toby Shorin](https://subpixel.space/entries/diminishing-marginal-aesthetic-value/)
