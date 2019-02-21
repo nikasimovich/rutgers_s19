@@ -10,8 +10,7 @@ date_range:       2/21
 - Jael presents her Pick 10 and Student portfolio
 - Review [text based art](https://paper.dropbox.com/doc/Maxims-Intro--AXlL2fudtC7h4OdTZQjka3dkAQ-9cOXvdWgpIaryO6sXXUFm)
 - [Review: Research, Wireframes, Sketches and discuss homework](https://paper.dropbox.com/doc/How-to-Begin-a-Project-and-How-to-Present-Your-Process--AXigMM0wxLVrZOOzHpPkneqSAQ-vML6MBKWm2TKCUBtIWl4K)
-- [Week 5 Activities: Media queries and Javascript Intro, Activity](https://paper.dropbox.com/doc/Week-5--AX_feqpPsE8fIBxYb8XK9ZmDAQ-WZ3x9MzD8Ud3YDETop6Bt)
-- Rest of class: work on project about one of your instagram topics. I'll meet with you 1:1 regarding your homework.
+- [Week 5 Activities: Media queries and Javascript Intro, Inspiration Diary activity and 1 on 1 meetings](https://paper.dropbox.com/doc/Week-5--AX_feqpPsE8fIBxYb8XK9ZmDAQ-WZ3x9MzD8Ud3YDETop6Bt)
 
 
 ### Homework
