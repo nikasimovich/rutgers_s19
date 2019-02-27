@@ -2,7 +2,7 @@
 title:            Literal Vs. Abstract
 date:             2019-01-21 00:00:00 -0500
 index:            4
-categories:       HTML CSS jQuery
+categories:       HTML CSS js
 
 ---
 

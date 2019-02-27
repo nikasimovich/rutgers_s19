@@ -2,7 +2,7 @@
 title:            Generative Poster
 date:             2019-01-21 00:00:00 -0500
 index:            5
-categories:       HTML CSS jQuery
+categories:       p5
 
 ---
 
