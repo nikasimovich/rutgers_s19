@@ -10,10 +10,6 @@ categories:       HTML CSS
 
 By definition, maxims are a short, pithy statement expressing a general truth or rule of conduct. For this project, collect a set of phrases from an existing source. Examples: Email subject lines, news headlines, dates, fortune cookie messages. Create a website that displays these maxims in a compelling way. Consider the content of your maxims. What are they about and where are they coming from? How does the content change based on the hierarchy of your design and the way you’re breaking it up? You should have at least 15 different maxims on your website and your website should guide the user with control and interest.
 
-### Deadlines
-
-Due February 21. Check agenda for increments.
-
 ---
 
 ### Technical Requirements
