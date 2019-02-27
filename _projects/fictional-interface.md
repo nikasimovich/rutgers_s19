@@ -11,9 +11,6 @@ categories:       Arduino
 - Working in small teams, create a fictional interface using the arduino as a controller.
 - Create a short, thematic video introducing the interface. House both on a fake promotional website inviting you to try the service.
 
-### Deadlines
-
-Due May 10th. Check agenda for increments.
 
 ---
 

@@ -15,9 +15,6 @@ For the abstract version – consider how to take inspiration from something wit
 
 After completing both, consider which produces a more unexpected result. Evaluate what worked better in each.
 
-### Deadlines
-
-Due April 5th. Check agenda for increments.
 
 ---
 
