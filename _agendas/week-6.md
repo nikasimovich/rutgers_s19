@@ -1,7 +1,7 @@
 ---
 title:            Week 6
 start_date:       2019-01-23 00:00:00 -0500
-date_range:       2/27
+date_range:       2/28
 ---
 
 ### Thursday, In Class
