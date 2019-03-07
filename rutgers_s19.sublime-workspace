@@ -37,7 +37,7 @@
 			"file": "_projects/maxims.md",
 			"settings":
 			{
-				"buffer_size": 876,
+				"buffer_size": 814,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -578,15 +578,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 876,
+						"buffer_size": 814,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								767,
-								767
+								0,
+								0
 							]
 						],
 						"settings":
