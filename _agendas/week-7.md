@@ -15,4 +15,4 @@ date_range:       3/7
 
 ### Homework
 - Finish your Maxims project. It should be complete and linked to your class site at the start of class.
-- Create a 5 – 7 minute presentation that introduces your project, your process, and what you&rsquo;ve learned and explored through this project
+- Create a 5 – 7 minute presentation that introduces your project, your process, and what you&rsquo;ve learned and explored through this project (this can include presenting your final project)
