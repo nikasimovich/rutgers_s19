@@ -10,7 +10,7 @@ date_range:       3/7
 - Look at Instructions exercise from last week
 - [Week 7 Activities: Pseudo-random Numbers and jQuery Practice](https://paper.dropbox.com/doc/Week-7--AY0h7PrUg9duD9MRVILg5A1MAQ-jxpDpfahQ3IRXhj14b2yH)
 - Work on Maxims with 1 on 1 meetings
-- [Watch John Cage documentary](https://www.youtube.com/watch?v=UaNGeuDuXl4&t=53s) depending on time
+- [Watch A Year With John Cage - How To Get Out Of The Cage, a documentary about John Cage](https://www.youtube.com/watch?v=UaNGeuDuXl4&t=53s) depending on time
 
 
 ### Homework
