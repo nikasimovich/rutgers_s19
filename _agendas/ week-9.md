@@ -10,7 +10,7 @@ date_range:       3/28
 - Look at spring break activity
 - Introduce project: [generative posters](../projects/generative-poster)
 - [Week 9 Activites: Algorithmic Design Continued – Generative Patterns](https://paper.dropbox.com/doc/Week-9-Algorithmic-Design-Continued--AaIuOF5huMpzQgCIFiT36phdAQ-M5baUM1FjdTWlusHHpbxx)
-- Watch algorithms movie
+- Watch Dia Studio talk: [Time is Form/Form is Time](https://www.youtube.com/watch?v=jOWa8SNNmyA)
 
 ### Homework
 - Come up with three concepts for your generative poster series. Create an are.na channel for each concept and collect at least 10 inspiration images for each concept. Images can come from a variety of sources. You might consider researching different artists, or building it around a specific thought.
