@@ -7,7 +7,7 @@ date_range:       3/28
 ### Thursday, In Class
 
 - Wendy presents her Maxims project
-- Look at spring break activity
+- [Look at spring break activity](https://paper.dropbox.com/doc/Place-your-share-url-here--AaKNsgzbEeKBZ3sP~z5LM3suAQ-YMRz67pmBwKMjO8YCt7Z4)
 - Introduce project: [generative posters](../projects/generative-poster)
 - [Week 9 Activites: Algorithmic Design Continued – Generative Patterns](https://paper.dropbox.com/doc/Week-9-Algorithmic-Design-Continued--AaIuOF5huMpzQgCIFiT36phdAQ-M5baUM1FjdTWlusHHpbxx)
 - Watch Dia Studio talk: [Time is Form/Form is Time](https://www.youtube.com/watch?v=jOWa8SNNmyA)
