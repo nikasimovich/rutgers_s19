@@ -17,5 +17,5 @@ Create a website that houses a gallery of the six posters as well as a link to t
 ### Learning Timeline
 03/14 – Introduce p5.js
 03/28 – Learn about generative patterns
-04/04 – Introduce interactivity + animations to make dynamic compositions
+04/04 – Introduce interactivity + animations to make dynamic compositions & incorporating p5 into a website
 04/11 – Project is due
