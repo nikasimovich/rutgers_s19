@@ -8,10 +8,11 @@ date_range:       3/28
 
 - Wendy presents her Maxims project
 - Look at spring break activity
-- [Week 9 Activites: Algorithmic Design Continued](https://paper.dropbox.com/doc/Week-9-Algorithmic-Design-Continued--AaIuOF5huMpzQgCIFiT36phdAQ-M5baUM1FjdTWlusHHpbxx)
-- Introduce project: generative posters
+- Introduce project: [generative posters](../projects/generative-poster)
+- [Week 9 Activites: Algorithmic Design Continued – Generative Patterns](https://paper.dropbox.com/doc/Week-9-Algorithmic-Design-Continued--AaIuOF5huMpzQgCIFiT36phdAQ-M5baUM1FjdTWlusHHpbxx)
 - Watch algorithms movie
 
 ### Homework
-- Have a draft of your generative poster activity complete
+- Come up with three concepts for your generative poster series. Create an are.na channel for each concept and collect at least 10 inspiration images for each concept. Images can come from a variety of sources. You might consider researching different artists, or building it around a specific thought.
+- Create 3 p5.js sketches (one for each concept) of your poster series.
 - Reading: [Luna Maurer on Being a Designer](https://thecreativeindependent.com/people/luna-maurer-on-being-a-designer/), choose a discussion leader who will discuss the reading as well as studio [Moniker](https://www.studiomoniker.com/)
