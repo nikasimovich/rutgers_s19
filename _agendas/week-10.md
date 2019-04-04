@@ -17,7 +17,4 @@ date_range:       4/4
 - Create 3 sketches exploring your poster generator. These sketches should revolve around the same idea and can play around with different effects.
 - Reading: [Too Much World: Is the Internet Dead? – Hito Steyerl](https://www.e-flux.com/journal/49/60004/too-much-world-is-the-internet-dead/)
 
-
-Come up with three concepts for your generative poster series. Create an are.na channel for each concept and collect at least 10 inspiration images for each concept. Images can come from a variety of sources. You might consider researching different artists, or building it around a specific thought.
-- Create 3 p5.js sketches (one for each concept) of your poster series.
-- Reading: [Luna Maurer on Being a Designer](https://thecreativeindependent.com/people/luna-maurer-on-being-a-designer/), choose a discussion leader who will discuss the reading as well as studio [Moniker](https://www.studiomoniker.com/)
+---
