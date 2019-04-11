@@ -11,7 +11,8 @@ date_range:       4/11
 - [Week 11 Notes](https://paper.dropbox.com/doc/Week-11-The-Interface-and-the-Gallery--AbAly3_894LiHp4WzMnbahXyAQ-zfZDUsssjnhIqws5Z12e8)
 
 ### Homework
-- Finish your project
+- Finish your project (the Generator and the Gallery should both be complete, working, and online. Make sure to test it before class).
+- Link your generator project to your class homepage
 - Reading: [The Woman Who Gave Macintosh a Smile / Susan Kare](https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile)
 - Assign reading to Jillian, Wendy or Walley
 
