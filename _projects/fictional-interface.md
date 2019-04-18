@@ -2,13 +2,13 @@
 title:            Beyond the Screen
 date:             2019-04-17 00:00:00 -0500
 index:            6
-categories:       Arduino & Processing
+categories:       Arduino Processing
 
 ---
 
 ### Overview
 
-- Working in pairs, develop a program that connects your environment to the screen.
+Working in pairs, develop a program that connects your environment to the screen.
 We'll use the arduino as a controller and processing as a tool to visualize our inputs.
 You can  send data from processing to arduino, or vice versa, using a sensor or series of sensors.
 Use your imagination and experiment with different sensors to . We&rsquo;ll treat this activity as an experiment, but the interface and visualization should be informed by your interests in art and design.
