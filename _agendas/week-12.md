@@ -15,6 +15,5 @@ date_range:       4/17
 ### Homework
 - Reading: [A Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
 - Assign reading to Jillian or Walley
--
 
 ---
