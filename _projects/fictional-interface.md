@@ -15,7 +15,7 @@ Use your imagination and play around with different sensors. We&rsquo;ll treat t
 The resulting screen display can be visual, text, or sound based.
 
 Once you develop your app, each team member will create their own companion website documenting the result, the code and the process.
-You can think of the companion website as a case study of your work on the project. Include a description on the goal of the project, any art historical references you were exploring, as well as a video of the program in use. Consider how else to document the project (with photos, illustrations, animations etc). Display your code and include a description on how it affected the final outcome. Consider formal design themes on how you to organize your work and create interest about it.
+You can think of the companion website as a case study of your work on the project. Include a description describing the goal of the project, any art historical references you were exploring, as well as a video of the program in use.
 
 
 
