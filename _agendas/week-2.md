@@ -16,4 +16,3 @@ date_range:       1/31
 - Finish your 3 survey variations if you didn&rsquo;t in class.
 - 5 photos to your inspiration diary (ongoing.)
 - Jael is the discussion leader
-- Read [Conversation 1: art.yale.edu (pages 3 through 17)](https://www.dropbox.com/s/p1ikztkma7mi0xf/yale-reader.pdf?dl=0) and write a [discussion question](https://paper.dropbox.com/doc/Design-2B-Reading-2--AWrKYik8DCNjzKgEau6rFlHeAQ-qdBlIFQ6cHHwqAjj9hImT)
